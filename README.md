@@ -17,3 +17,4 @@ Functionalities Implemented <br/>
 
 <b>Pull Requests Are Welcome:</b> This project is built part of my UI Tech round preparation. While I do appreciate if people trying to make some things prettier or adding new features.
 
+![image alt](https://github.com/Manojkumar6304275755/online-food-ordering-app/blob/cb19e140f8e138cd9e7e6f13ab6cb2fd210c7908/Screenshot%202025-10-01%20100106.png)
